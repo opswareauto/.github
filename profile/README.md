@@ -1,3 +1,3 @@
 # OpsWare Automation
 
-A repository intended to share automation approaches and available by invitation.
+An organisation intended to share automation approaches and available by invitation.
