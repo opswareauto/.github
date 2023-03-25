@@ -1,3 +1,3 @@
-# Opsware Automation
+# OpsWare Automation
 
 A repository intended to share automation approaches and available by invitation.
