@@ -1,3 +1,3 @@
 # Opsware Automation
 
-Organisation Guidelines
+A repository intended to share automation approaches and available by invitation.
